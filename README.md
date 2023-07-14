@@ -12,3 +12,7 @@ Figure 1 is a picture of a certain frame in the video, Figure 2 is the backgroun
 <p align="center">Figure 2</p>
 <div align=center><img width="400" height="400" src="https://github.com/Tianyang-Liu0307/Robust-PCA-via-Principal-Component-Pursuit/assets/57581285/b83f2397-c3cc-4915-a820-9ecc070051b8"/></div>
 <p align="center">Figure 3</p>
+
+References
+=====
+Wright, J., & Ma, Y. (2022). High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications. Cambridge: Cambridge University Press. doi:10.1017/9781108779302
