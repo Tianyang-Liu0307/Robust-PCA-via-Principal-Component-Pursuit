@@ -5,7 +5,7 @@ The method used is PCP (principal component pursuit), and the optimization algor
 
 The following three pictures are some experimental results, and the data set is Avenue Dataset for Abnormal Event Detection.<br>
 
-Figure 1 is a picture of a certain frame in the video, Figure 2 is the background information, and Figure 3 is the information about the segmented moving object<br>
+Figure 1 is a picture of a certain frame in the video, Figure 2 is the background information, and Figure 3 is the information about the segmented moving object.<br>
 <div align=center><img width="500" height="500" src="https://github.com/Tianyang-Liu0307/Robust-PCA-via-Principal-Component-Pursuit/assets/57581285/cb7e6dcb-8cea-4c34-ad33-03364fa9e7c4"/></div>
 <p align="center">Figure 1</p>
 <div align=center><img width="500" height="500" src="https://github.com/Tianyang-Liu0307/Robust-PCA-via-Principal-Component-Pursuit/assets/57581285/c0ad995b-34b6-4f47-87ff-f29946309908"/></div>
